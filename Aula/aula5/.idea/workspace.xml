@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1744e6c9-f337-40d7-a711-fe77044410dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Prato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Restaurante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista04/src/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista04/src/Inimigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista04/src/Mapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacao_Orientada_Objetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../monitoria/Monito05/Monito05/src/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../monitoria/Monito05/Monito05/src/Heroi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lista" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ListaNova/Lista02/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2OwhDaxD84OLjLCwNXXOXLwktCP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/Aula/aula5"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1744e6c9-f337-40d7-a711-fe77044410dc" name="Changes" comment="" />
+      <created>1682477432829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682477432829</updated>
+    </task>
+    <servers />
+  </component>
+</project>
