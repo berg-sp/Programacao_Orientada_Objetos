@@ -1,17 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="948cc1e4-4549-4faf-a70a-7f81aa7e5f21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programacao_Orientada_Objetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula04/src/Arma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula04/src/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula04/src/Masmorra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula04/src/Monstro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lista" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula/Aula06/00-Revisao/revisao/src/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula/Aula06/00-Revisao/revisao/src/inimigos/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula/Aula06/00-Revisao/revisao/src/inimigos/Inimigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula/Aula06/00-Revisao/revisao/src/inimigos/InimigoComum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula/Aula06/00-Revisao/revisao/src/inimigos/SubBoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista06/Exercicio2/Exercicio2/src/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista06/Exercicio2/Exercicio2/src/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista06/Exercicio2/Exercicio2/src/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista06_old/Exercicio1/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista06_old/Exercicio1/src/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista06_old/Exercicio1/src/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/.idea/monitoria.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/.idea/Compra.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/Carrinho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Compra/jogo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Monito05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Monito05/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Monito05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Monito05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Monito05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Monito05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/Monito05/Monito05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/out/production/Monito05/Grupo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/out/production/Monito05/Heroi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/Monito05/out/production/Monito05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/monit01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/monit4_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/src/Banda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/src/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit01/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/issuestore/2/b/2b4909e9ce04290e3c629870e3157e0cfdb0fee6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/issuestore/b/7/b7e57b36d5cf5b769383a1b1bc367dabfef72b9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/securityhotspotstore/0/9/09e82285377763b85701d231d0dfca198b823e17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/securityhotspotstore/2/b/2b4909e9ce04290e3c629870e3157e0cfdb0fee6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/securityhotspotstore/7/c/7c021c71c7b18dd66c605f2a6c7908ab093f5dfb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/securityhotspotstore/9/0/9087df9720e89c066e9aeb91de9bb51c9265125e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/securityhotspotstore/9/d/9d5dfdff00ce6c56f76a445be4dedbe5da356f8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/securityhotspotstore/b/7/b7e57b36d5cf5b769383a1b1bc367dabfef72b9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/aula4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/monit4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/out/production/aula4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/out/production/aula4/Pedido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/out/production/aula4/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/out/production/aula4/Pizzaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/src/Pedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/src/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monit4/src/Pizzaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monitoria/monito03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/teste.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +113,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/ListaNova"
+    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/ListaNova/Lista06/Exercicio2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
