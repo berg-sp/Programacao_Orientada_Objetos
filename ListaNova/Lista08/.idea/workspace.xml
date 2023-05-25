@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ba48bb8-8e71-4be0-bab7-5ab5aeb950e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula08/stringEmJava/src/stringEmJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex04/ex04/ex04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex05/ex05/ex05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/ex06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/CategoriaInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex07/ex07/ex07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex07/ex07/src/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex07/ex07/src/nomes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/ex08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/src/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/heroi/heroi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/heroi/nome.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/heroi/src/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/internaExterna/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/retornaQuadradoNumero/retornaQuadradoNumero/retornaQuadradoNumero.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/Aula 3 - Classes e Objetos/emissora/src/Emissora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/Aula 3 - Classes e Objetos/emissora/src/Emissora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/exception.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/aula5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/aula5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/aula5/untitled/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/aula5/untitled/src/Cliente.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q71ofvvhyTaCrJetwomWn9pT1a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/ListaNova/Lista08/ex_01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ex_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ex_01" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ba48bb8-8e71-4be0-bab7-5ab5aeb950e1" name="Changes" comment="" />
+      <created>1684689986432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684689986432</updated>
+      <workItem from="1684689988167" duration="1846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

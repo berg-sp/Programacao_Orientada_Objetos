@@ -2,21 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1744e6c9-f337-40d7-a711-fe77044410dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Prato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/Restaurante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista04/src/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista04/src/Inimigo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista04/src/Mapa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Programacao_Orientada_Objetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../monitoria/Monito05/Monito05/src/Grupo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../monitoria/Monito05/Monito05/src/Heroi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lista" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ListaNova/Lista02/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula08/stringEmJava/src/stringEmJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex04/ex04/ex04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex05/ex05/ex05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex06/ex06/ex06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex06/ex06/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex06/ex06/src/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex06/ex06/src/CategoriaInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex06/ex06/src/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex06/ex06/src/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex07/ex07/ex07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex07/ex07/src/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex07/ex07/src/nomes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex08/ex08/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex08/ex08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex08/ex08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex08/ex08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex08/ex08/ex08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex08/ex08/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/ex08/ex08/src/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/heroi/heroi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/heroi/nome.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/heroi/src/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/internaExterna/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula09/exception/retornaQuadradoNumero/retornaQuadradoNumero/retornaQuadradoNumero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio01/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio01/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio01/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio01/NomeRepeditoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio1/src/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio1/src/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio1/src/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/Exercicio1/src/NomeRepetidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/ex_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaNova/Lista08/src/Lista08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula09/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula09/exception/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula09/exception/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula09/exception/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula09/exception/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula09/exception/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula09/exception/exception.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula09/exception/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +64,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/Aula/aula5"
+    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/Aula/aula04/src"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

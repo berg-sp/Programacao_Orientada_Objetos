@@ -10,7 +10,7 @@ public class Cliente {
         this.pedidos = new ArrayList<>();
     }
 
-    public CLiente(int id, String nome, ArrayList<Pedido> pedidos) {
+    public Cliente(int id, String nome, ArrayList<Pedido> pedidos) {
         this.id new ArrayList<>();
         this.nome = nome;
         this.pedidos = pedidos;
@@ -33,7 +33,7 @@ public class Cliente {
     }
 
     public void adicionarPedidos(){
-        pedidos.add(new Pedido())
+        pedidos.add(new Pedido());
         String cardapio = Restaurante.retornarPratosNoCardapio();
         String resposta = JOptionPane.showInputDialog("Escolha o numero do prato que quer adicionar ao seu pedido:\n\n" + cardapio);
         int pratoEscolhido = Interger.parseInt(resposta);

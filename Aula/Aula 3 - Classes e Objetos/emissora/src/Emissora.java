@@ -1,7 +1,6 @@
 public class Emissora {
     String nome;
     ArrayList<Programa> programas = new ArrayList<>();
-
     public Programa getProgramaMaiorAudiencia(){
         int maiorAudiencia = 0;
         int index = 0;
