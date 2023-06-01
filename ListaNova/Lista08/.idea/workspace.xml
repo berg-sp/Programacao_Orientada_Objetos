@@ -5,42 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba48bb8-8e71-4be0-bab7-5ab5aeb950e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula08/stringEmJava/src/stringEmJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex04/ex04/ex04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex05/ex05/ex05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/ex06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/Arma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/CategoriaInvalidaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/Grupo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex06/ex06/src/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex07/ex07/ex07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex07/ex07/src/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex07/ex07/src/nomes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/ex08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/src/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/ex08/ex08/src/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/heroi/heroi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/heroi/nome.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/heroi/src/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/internaExterna/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula/aula09/exception/retornaQuadradoNumero/retornaQuadradoNumero/retornaQuadradoNumero.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/Aula 3 - Classes e Objetos/emissora/src/Emissora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/Aula 3 - Classes e Objetos/emissora/src/Emissora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/exception.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula09/exception/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/aula5/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/aula5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula/aula5/untitled/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/aula5/untitled/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/Alimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/BomBom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/Caixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/Feijao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/ListaCircular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/Pote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/Sapato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_01/ex_01/src/Sorvete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_02/ex_02/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_03/ex_03/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_06/src/Heroi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula/Aula10 - Generics e Collections em Java/ex_06/src/Quest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista09/Pokedex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista09/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/ListaNova/Lista08/ex_01",
+    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/ListaNova/Lista08",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
