@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37cdc958-acf6-4d31-ad3b-fe81f996020c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/Aula10 - Generics e Collections em Java/ex_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Aula/Aula10 - Generics e Collections em Java/ex_03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula11/artefato/src/Matematica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula11/revisao/src/Grupo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Aula/aula11/revisao/src/Grupo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula11/revisao/src/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Aula/aula11/revisao/src/Heroi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula11/utilizaArtefato/src/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Aula/aula11/utilizaArtefato/src/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula11/utilizaArtefato/src/CirculoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Aula/aula11/utilizaArtefato/src/CirculoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula11/utilizarArtefato/src/Matematica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula12/artefato/src/main/java/Matematica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula12/escolhe-heroi/src/main/java/com/programando/escolheheroi/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Aula/aula12/escolhe-heroi/src/main/java/com/programando/escolheheroi/Heroi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Aula/aula12/heroi/src/test/java/com/programando/heroi/Heroi.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RMN9ZttIvXHw61x44LRqbx2kxS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bergb/Downloads/Algoritmos/Modulo_II/Programacao_Orientada_Objetos/ListaNova/Lista11/ex02"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37cdc958-acf6-4d31-ad3b-fe81f996020c" name="Changes" comment="" />
+      <created>1687055839358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687055839358</updated>
+    </task>
+    <servers />
+  </component>
+</project>
